@@ -9,7 +9,7 @@ license = "GPL-3.0"
 authors = [
   { name="Justin Kumpe", email="jakumpe@kumpes.com" },
 ]
-description = "Use python to make Buy Now purchases from Amazon"
+description = "Use python to make Buy Now purchases from Amazon."
 readme = "README.md"
 requires-python = ">=3.7"
 repository = "https://github.com/kumpeapps/amazon_purchase"
