@@ -17,4 +17,4 @@ classifiers = [
   "Operating System :: OS Independent",
   "Natural Language :: English"
 ]
-dependencies = ['time', 'selenium', 'amazoncaptcha']
+dependencies = ['selenium', 'amazoncaptcha']
